@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Fired Chicken",
+        "image": "https://www.kfc.ca/Content/OnlineOrderingImages/StaticPage/story/story_28_lrg.jpg",
+        "description": "description1",
+        "price": 1.99,
+        "discount": 0.35,
+        "remaining": 4,
+        "quanitity":1
+    },
+    {
+        "id": 2,
+        "name": "Shoes",
+        "image": "https://www.kfc.ca/Content/OnlineOrderingImages/StaticPage/story/story_28_lrg.jpg",
+        "description": "description2",
+        "price": 100.99,
+        "discount": 0,
+        "remaining": 4,
+        "quanitity":1
+    },
+    {
+        "id": 3,
+        "name": "Combo Bugrgers",
+        "image": "https://www.kfc.ca/Content/OnlineOrderingImages/StaticPage/story/story_28_lrg.jpg",
+        "description": "description3",
+        "price": 21.99,
+        "discount": 0.15,
+        "remaining": 4,
+        "quanitity":1
+    },
+    {
+        "id": 4,
+        "name": "Amazon Prime",
+        "image": "https://www.kfc.ca/Content/OnlineOrderingImages/StaticPage/story/story_28_lrg.jpg",
+        "description": "description4",
+        "price": 91.99,
+        "discount": 0.2,
+        "remaining": 4,
+        "quanitity":1
+    },
+    {
+        "id": 5,
+        "name": "Shower Curtain",
+        "image": "https://www.kfc.ca/Content/OnlineOrderingImages/StaticPage/story/story_28_lrg.jpg",
+        "description": "description5",
+        "price": 11.99,
+        "discount": 0.12,
+        "remaining": 4,
+        "quanitity":1
+    }
+]
