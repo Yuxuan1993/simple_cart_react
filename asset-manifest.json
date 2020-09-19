@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simple_cart_react/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/simple_cart_react/static/js/main.b5cfcb8f.chunk.js",
+    "main.js.map": "/simple_cart_react/static/js/main.b5cfcb8f.chunk.js.map",
+    "runtime-main.js": "/simple_cart_react/static/js/runtime-main.696033d3.js",
+    "runtime-main.js.map": "/simple_cart_react/static/js/runtime-main.696033d3.js.map",
+    "static/css/2.11829350.chunk.css": "/simple_cart_react/static/css/2.11829350.chunk.css",
+    "static/js/2.5086cda3.chunk.js": "/simple_cart_react/static/js/2.5086cda3.chunk.js",
+    "static/js/2.5086cda3.chunk.js.map": "/simple_cart_react/static/js/2.5086cda3.chunk.js.map",
+    "index.html": "/simple_cart_react/index.html",
+    "precache-manifest.9ad658a04089b8f90b7ec623365dc3a4.js": "/simple_cart_react/precache-manifest.9ad658a04089b8f90b7ec623365dc3a4.js",
+    "service-worker.js": "/simple_cart_react/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/simple_cart_react/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/simple_cart_react/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5086cda3.chunk.js.LICENSE.txt": "/simple_cart_react/static/js/2.5086cda3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.696033d3.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.5086cda3.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b5cfcb8f.chunk.js"
+  ]
+}
